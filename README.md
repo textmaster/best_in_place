@@ -1,3 +1,11 @@
+# TextMaster - Why this fork?
+
+This fork was created in order to apply a Rails 6 compatibility patch based on PR that are still open at the time of the fork.
+
+See: https://github.com/bernat/best_in_place/pull/626 for the source material.
+
+Blame Simon Courtois if anything goes wrong :wink:
+
 # Best In Place
 [![Build Status](https://secure.travis-ci.org/bernat/best_in_place.png)](http://travis-ci.org/bernat/best_in_place)
 **The Unobtrusive in Place editing solution**
